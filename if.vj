@@ -1,0 +1,5 @@
+if ((5 >= 4) and !false)
+then if ((5 >= 4) and !false)
+        then 1
+        else 2
+else 3
